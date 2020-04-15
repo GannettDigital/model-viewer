@@ -1,0 +1,17 @@
+commit 8fd403b971b571af82f09753628a75aed36f206c
+Author: Emmett Lalish <elalish@google.com>
+Date:   Wed Apr 15 10:25:53 2020 -0700
+
+    Update SceneViewer intent (#1142)
+    
+    * attempt to update intent
+    
+    * new SceneViewer intent works
+    
+    * revert title link change
+    
+    * cleanup
+    
+    * removed vestigil warning
+    
+    * fixed modelURL query params
